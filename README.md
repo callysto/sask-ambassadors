@@ -1,2 +1,2 @@
-# sask-ambassadors
-Thin repo for April presentation to Saskatoon Science Ambassadors
+# Callysto Presentations
+Presentations related to the [Callysto Project](https://callysto.ca)
