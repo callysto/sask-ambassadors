@@ -5,3 +5,4 @@ numpy
 qgrid
 tqdm
 cufflinks
+mobilechelonian
